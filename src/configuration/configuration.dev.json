@@ -1,0 +1,8 @@
+{
+    "connection": {
+        "url": "mongodb://localhost:27017",
+        "dbName": "ms-project-template",
+        "user": "username",
+        "pass": "passwd"
+    }
+}
